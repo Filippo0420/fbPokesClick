@@ -1,0 +1,11 @@
+list of Libs
+for fbPokes
+    pillow
+    opencv-python
+    selenium
+    pyautogui
+    numpy
+install using this command in terminal
+    pip install "libraryName"
+for example
+    pip install opencv-python
